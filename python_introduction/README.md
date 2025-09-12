@@ -8,3 +8,6 @@ A Simple Interest Calculator
 
 ## rectangle_area.py
 Calculating the Area of a Rectangle
+
+## hours_to_seconds.py
+Converting Hours to Seconds
