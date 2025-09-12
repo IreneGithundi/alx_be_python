@@ -14,3 +14,6 @@ Converting Hours to Seconds
 
 ## future_age_calculator.py
 User Input Age Calculator
+
+## finance_calculator.py
+Personal Finance Calculator
