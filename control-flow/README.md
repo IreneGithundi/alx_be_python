@@ -6,8 +6,11 @@ Weather Recommendation Program
 ## match_case_calculator.py
 Simple Calculator with Match Case
 
-### multiplication_table.py
+## multiplication_table.py
 Multiplication Table Geneartor
 
-### pattern_drawing.py
+## pattern_drawing.py
 Drawing Patterns with Nested Loops
+
+## daily_reminder.py
+A Personal Daily Reminder
