@@ -8,3 +8,6 @@ Simple Calculator with Match Case
 
 ### multiplication_table.py
 Multiplication Table Geneartor
+
+### pattern_drawing.py
+Drawing Patterns with Nested Loops
